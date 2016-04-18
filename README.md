@@ -1,5 +1,7 @@
 # Learning Kafka notes
 
+[![Build Status](https://travis-ci.org/jagatsingh/learnkafka.svg?branch=master)](https://travis-ci.org/jagatsingh/learnkafka)
+
 This project is learning related to upcoming book Kafka Definitive guide.
 
 ## Pull requests
